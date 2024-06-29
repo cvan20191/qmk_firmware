@@ -1,38 +1,3 @@
-# Ignore everything
-*
-
-# Don't ignore .gitignore and readme
-!.gitignore
-!readme.md
-
-# Allow qwertykeys keyboard files
 !/keyboards/
 /keyboards/*
 !/keyboards/qwertykeys*
-
-# Allow only necessary QMK core files
-!/quantum/
-/quantum/*
-!/quantum/quantum.h
-!/quantum/quantum.c
-!/quantum/keymap.h
-!/quantum/keymap.c
-!/quantum/keycode.h
-
-# Allow necessary build files
-!/builddefs/
-/builddefs/*
-!/builddefs/common_features.mk
-!/builddefs/mcu_selection.mk
-
-!/tmk_core/
-/tmk_core/*
-!/tmk_core/common/
-/tmk_core/common/*
-!/tmk_core/common/avr/
-!/tmk_core/common/arm_atsam/
-!/tmk_core/common/arm_chibios/
-!/tmk_core/common/chibios/
-
-!Makefile
-!build_keyboard.mk
