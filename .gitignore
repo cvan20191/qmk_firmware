@@ -1,2 +1,16 @@
-/keyboards/*
+# Ignore everything
+*
+# But not these files and directories
+!.gitignore
 !/keyboards/qwertykeys*
+!/builddefs/
+!/quantum/
+!/tmk_core/
+!/platforms/
+!/lib/
+!/drivers/
+!Makefile
+!readme.md
+!LICENSE
+!build_keyboard.mk
+!build_layout.mk
