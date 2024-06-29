@@ -1,4 +1,2 @@
-# Ignore all keyboards
 /keyboards/*
-# But not qwertykeys
 !/keyboards/qwertykeys*
