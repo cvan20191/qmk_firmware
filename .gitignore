@@ -3,9 +3,6 @@
 *.bin
 *.elf
 
-# Don't ignore any directories
-!*/
-
 # But ignore contents of all directories in keyboards except qwertykeys
 /keyboards/*
 !/keyboards/qwertykeys*
