@@ -3,13 +3,19 @@
 
 # But not these files and directories
 !.gitignore
+# But ignore contents of all directories in keyboards except qwertykeys
+/keyboards/*
 !/keyboards/qwertykeys*
+
+# Don't ignore important QMK directories
 !/builddefs/
 !/quantum/
 !/tmk_core/
 !/platforms/
 !/lib/
 !/drivers/
+
+# Don't ignore important root files
 !Makefile
 !readme.md
 !LICENSE
