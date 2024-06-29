@@ -21,21 +21,21 @@ Archive member included to satisfy reference by file (symbol)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_block.o)
                               /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o) (eeprom_read_blraw)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (__tablejump2__)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (__tablejump2__)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (__do_copy_data)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (__do_copy_data)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (__do_clear_bss)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (__do_clear_bss)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (__prologue_saves__)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (__prologue_saves__)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (__epilogue_restores__)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (__epilogue_restores__)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memcmp.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (memcmp)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (memcmp)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memmove.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (memmove)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (memmove)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(strcpy.o)
-                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o (strcpy)
+                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o (strcpy)
 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memcpy.o)
                               /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memmove.o) (memcpy)
 
@@ -61,11 +61,11 @@ Discarded input sections
 
  .data          0x00000000        0x0 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
  .bss           0x00000000        0x0 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .trampolines   0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
- .comment       0x00000000      0xa35 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
- .text          0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .data          0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss           0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+ .trampolines   0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+ .comment       0x00000000      0xa35 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+ .text          0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .data          0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text          0x00000000      0x15c .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/xprintf.o
  .data          0x00000000        0x0 .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/xprintf.o
  .text          0x00000000        0x0 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
@@ -218,8 +218,8 @@ Linker script and memory map
 Address of section .data set to 0x800100
 LOAD /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 LOAD .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/achordion.o
-LOAD /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-LOAD /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+LOAD /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+LOAD /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 LOAD .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/custom_shift_keys.o
 LOAD .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/layer_lock.o
 LOAD .build/obj_qwertykeys_qk65_hotswap_cvan20191/.build/obj_qwertykeys_qk65_hotswap_cvan20191/src/default_keyboard.o
@@ -411,45 +411,45 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem.*)
  .progmem.data.COMDOT_combo
-                0x000000ac        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000000ac        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.MCOM_combo
-                0x000000b2        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000000b2        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.K_combo
-                0x000000b8        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000000b8        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.pairs.3547
-                0x000000be       0x16 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000000be       0x16 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.pairs.3546
-                0x000000d4        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000000d4        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.pairs.3545
-                0x000000dc        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .progmem.data.__c.5449
-                0x000000e6       0x20 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000000dc        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .progmem.data.__c.5445
+                0x000000e6       0x20 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.autocorrect_data
-                0x00000106       0x34 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000106       0x34 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.keymaps
-                0x0000013a      0x258 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000013a      0x258 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.SharedReport
-                0x00000392       0x6d /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000392       0x6d /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.KeyboardReport
-                0x000003ff       0x44 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000003ff       0x44 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.ConfigurationDescriptor
-                0x00000443       0x3b /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000443       0x3b /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.DeviceDescriptor
-                0x0000047e       0x12 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000047e       0x12 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.ProductString
-                0x00000490       0x1c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000490       0x1c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.ManufacturerString
-                0x000004ac       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000004ac       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.LanguageString
-                0x000004c4        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000004c4        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.ascii_to_dead_lut
-                0x000004c8       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000004c8       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.ascii_to_altgr_lut
-                0x000004d8       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000004d8       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.ascii_to_shift_lut
-                0x000004e8       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000004e8       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .progmem.data.ascii_to_keycode_lut
-                0x000004f8       0x80 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000004f8       0x80 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00000578                        . = ALIGN (0x2)
  *(.lowtext)
  *(.lowtext*)
@@ -471,7 +471,7 @@ END GROUP
  .init2         0x00000578        0xc /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
  *(.init2)
  *(.init3)
- .init3         0x00000584       0x36 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+ .init3         0x00000584       0x36 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00000584                bootloader_jump_after_watchdog_reset
  *(.init3)
  *(.init4)
@@ -535,198 +535,198 @@ END GROUP
                 0x000005ec                        . = ALIGN (0x2)
  *(.text.*)
  .text.get_tapping_term.constprop.32
-                0x000005ec       0x92 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000005ec       0x92 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.get_combo_term.constprop.22
-                0x0000067e       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000067e       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.waiting_buffer_typed.isra.2.constprop.15
-                0x0000068e       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000068e       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.USB_Disable
-                0x000006cc       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000006cc       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.Endpoint_WaitUntilReady
-                0x0000070a       0x62 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000070a       0x62 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.Endpoint_ClearStatusStage
-                0x0000076c       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000076c       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.Endpoint_ConfigureEndpoint_Prv
-                0x000007aa       0x64 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000007aa       0x64 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.USB_Init
-                0x0000080e       0xb6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000080e       0xb6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.Endpoint_Write_Control_Stream_LE
-                0x000008c4       0xbc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000008c4       0xbc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.send_mouse
-                0x00000980        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000980        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.keyboard_leds
-                0x00000982        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000982        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.timer_elapsed
-                0x00000988       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000988       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.timer_read32
-                0x000009a6       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000009a6       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.timer_read
-                0x000009be       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000009be       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.del_key_from_report
-                0x000009d6       0x56 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000009d6       0x56 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.add_key_to_report
-                0x00000a2c       0x68 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000a2c       0x68 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.host_consumer_send
-                0x00000a94       0x4a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000a94       0x4a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.host_system_send
-                0x00000ade       0x4a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000ade       0x4a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.host_keyboard_leds
-                0x00000b28       0x1a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000b28       0x1a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.find_alt_keycode
-                0x00000b42       0x2c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000b42       0x2c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.update_last_repeat_count
-                0x00000b6e       0x22 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000b6e       0x22 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.schedule_deferred_register
-                0x00000b90       0xa2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000b90       0xa2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.key_override_matches_active_modifiers
-                0x00000c32       0x40 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000c32       0x40 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.drop_combo_from_buffer
-                0x00000c72       0x5c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000c72       0x5c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.clear_combos
-                0x00000cce       0x24 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000cce       0x24 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.sendchar
-                0x00000cf2        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000cf2        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.setPinInputHigh_atomic
-                0x00000cf6       0x2e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000cf6       0x2e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.mod_config
-                0x00000d24       0x9e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000d24       0x9e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.keycode_config
-                0x00000dc2      0x144 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000dc2      0x144 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.keymap_key_to_keycode
-                0x00000f06       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000f06       0x3e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.action_for_keycode
-                0x00000f44      0x23c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000f44      0x23c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.clear_oneshot_mods
-                0x00001180        0xc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001180        0xc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.del_oneshot_mods
-                0x0000118c       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000118c       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.del_mods
-                0x000011a0        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000011a0        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.get_mods_for_report
-                0x000011ae       0x60 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000011ae       0x60 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.debug_waiting_buffer
-                0x0000120e       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000120e       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.layer_switch_get_layer
-                0x00001222       0x5e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001222       0x5e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.layer_switch_get_action
-                0x00001280       0x1a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001280       0x1a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.read_source_layers_cache
-                0x0000129a       0x68 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000129a       0x68 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.update_source_layers_cache
-                0x00001302       0x6e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001302       0x6e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.layer_state_set
-                0x00001370        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001370        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.layer_off
-                0x00001376       0x1a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001376       0x1a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.clear_oneshot_layer_state
-                0x00001390       0x2e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001390       0x2e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.layer_on
-                0x000013be       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000013be       0x18 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.default_layer_state_set
-                0x000013d6        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000013d6        0x6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.is_tap_action
-                0x000013dc       0x36 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000013dc       0x36 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.is_tap_record
-                0x00001412       0x28 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .text.biton    0x0000143a       0x22 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001412       0x28 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .text.biton    0x0000143a       0x22 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.get_event_keycode
-                0x0000145c       0x4a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000145c       0x4a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.get_record_keycode
-                0x000014a6       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000014a6       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.extract_mod_bits
-                0x000014c4       0x62 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000014c4       0x62 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.layer_lock_invert
-                0x00001526       0x5c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001526       0x5c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.update_streak_timer.isra.1
-                0x00001582       0x4e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001582       0x4e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.send_report
-                0x000015d0       0x76 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000015d0       0x76 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.send_extra
-                0x00001646        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001646        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.send_nkro
-                0x00001654        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001654        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.send_keyboard
-                0x00001662       0x28 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001662       0x28 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.bootloader_jump
-                0x0000168a       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000168a       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.oneshot_set
-                0x000016d2       0x2e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000016d2       0x2e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.send_keyboard_report
-                0x00001700       0xa4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001700       0xa4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.clear_keyboard
-                0x000017a4       0x44 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000017a4       0x44 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.USB_Device_ProcessControlRequest
-                0x000017e8      0x562 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000017e8      0x562 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.soft_reset_keyboard
-                0x00001d4a       0x2c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001d4a       0x2c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.unregister_weak_mods
-                0x00001d76       0x16 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001d76       0x16 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.caps_word_off
-                0x00001d8c       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001d8c       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.register_weak_mods
-                0x00001da0       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001da0       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.unregister_mods
-                0x00001db4        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001db4        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.clear_eager_mods
-                0x00001dc2        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001dc2        0xe /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.register_mods
-                0x00001dd0       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001dd0       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.unregister_code
-                0x00001de4       0x54 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001de4       0x54 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.clear_active_override
-                0x00001e38       0xcc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001e38       0xcc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.register_code
-                0x00001f04       0xd0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001f04       0xd0 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.tap_code_delay
-                0x00001fd4       0x30 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00001fd4       0x30 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.tap_code
-                0x00002004       0x12 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00002004       0x12 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.send_string_with_delay_P.constprop.36
-                0x00002016      0x15a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00002016      0x15a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.perform_space_cadet
-                0x00002170       0xc8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00002170       0xc8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.neutralize_flashing_modifiers
-                0x00002238       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00002238       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.register_code16
-                0x00002248       0x30 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00002248       0x30 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.process_record
-                0x00002278     0x1bb4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00002278     0x1bb4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.waiting_buffer_scan_tap
-                0x00003e2c       0xca /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00003e2c       0xca /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.process_tapping
-                0x00003ef6      0x418 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00003ef6      0x418 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.action_tapping_process
-                0x0000430e       0xd6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000430e       0xd6 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.dump_key_buffer
-                0x000043e4       0x92 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000043e4       0x92 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.combo_disable
-                0x00004476       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004476       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.apply_combos
-                0x00004494      0x126 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004494      0x126 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.action_exec
-                0x000045ba      0x444 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000045ba      0x444 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.generate_tick_event
-                0x000049fe       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000049fe       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.recursively_process_record
-                0x00004a46       0x16 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004a46       0x16 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.settle_as_hold
-                0x00004a5c       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004a5c       0x10 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.matrix_scan
-                0x00004a6c      0x226 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004a6c      0x226 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .text.__vector_11
-                0x00004c92       0x88 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004c92       0x88 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00004c92                __vector_11
  .text.__vector_10
-                0x00004d1a      0x1b2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004d1a      0x1b2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00004d1a                __vector_10
  .text.__vector_21
-                0x00004ecc       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004ecc       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00004ecc                __vector_21
  .text.__vector_12
-                0x00004f14       0x4e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004f14       0x4e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00004f14                __vector_12
  .text.startup.main
-                0x00004f62      0x508 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00004f62      0x508 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00004f62                main
  .text.libgcc   0x0000546a        0xc /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
                 0x0000546a                __tablejump2__
@@ -807,9 +807,9 @@ END GROUP
  *(.jumptables)
  *(.jumptables*)
  .jumptables.gcc.USB_Device_ProcessControlRequest
-                0x000055f8       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x000055f8       0x14 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .jumptables.gcc.process_record
-                0x0000560c       0x6a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0000560c       0x6a /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 0x00005676                        _etext = .
 
 .data           0x00800100       0xae load address 0x00005676
@@ -817,39 +817,39 @@ END GROUP
  *(.data)
  *(.data*)
  .data.__compound_literal.3
-                0x00800100        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .data.enabled  0x00800108        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800100        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .data.enabled  0x00800108        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .data.typo_buffer
-                0x00800109        0x7 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800109        0x7 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .data.typo_buffer_size
-                0x00800110        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800110        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .data.achordion_state
-                0x00800111        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800111        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .data.lufa_driver
-                0x00800112        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800112        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .data.key_combos
-                0x0080011c       0x15 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080011c       0x15 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .data.b_combo_enable
-                0x00800131        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800131        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .data.keyboard_protocol
-                0x00800132        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800132        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  *(.gnu.linkonce.d*)
  *(.rodata)
  *(.rodata*)
  .rodata.moveR_key_override
-                0x00800133        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800133        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .rodata.moveH_key_override
-                0x00800142        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800142        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .rodata.moveL_key_override
-                0x00800151        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800151        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .rodata.CSWTCH.11
-                0x00800160        0x3 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800160        0x3 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .rodata.CSWTCH.12
-                0x00800163       0x36 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800163       0x36 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .rodata.row_pins
-                0x00800199        0x5 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800199        0x5 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .rodata.col_pins
-                0x0080019e        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080019e        0xf /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  *(.gnu.linkonce.r*)
                 0x008001ae                        . = ALIGN (0x2)
  *fill*         0x008001ad        0x1 
@@ -863,169 +863,169 @@ END GROUP
                 0x008001ae                xfunc_out
  *(.bss*)
  .bss.__compound_literal.0
-                0x008001b0        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001b0        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.__compound_literal.1
-                0x008001b8       0x20 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001b8       0x20 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.registered_repeat_count.3518
-                0x008001d8        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001d8        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.registered_record.3517
-                0x008001d9        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001d9        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_mods
-                0x008001e2        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001e2        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_record
-                0x008001e3        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001e3        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.registered_repeat_count.3552
-                0x008001ec        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001ec        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.registered_record.3551
-                0x008001ed        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001ed        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.processing_repeat_count
-                0x008001f6        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001f6        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.eager_mods
-                0x008001f7        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001f7        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.tap_hold_record
-                0x008001f8        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008001f8        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.tap_hold_keycode
-                0x00800201        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800201        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.pressed_another_key_before_release
-                0x00800203        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.registered_keycode.5167
-                0x00800204        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800203        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.registered_keycode.5163
+                0x00800204        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.held_mods
-                0x00800206        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800206        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_key_down
-                0x00800207        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800207        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.leader_sequence
-                0x00800209        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800209        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.leader_sequence_size
-                0x00800213        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800213        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.grave_esc_was_shifted
-                0x00800214        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800214        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.oneshot_locked_mods
-                0x00800215        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800215        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.retro_tapping_counter
-                0x00800216        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800216        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.source_layers_cache
-                0x00800218       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800218       0x1e /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.tapping_key
-                0x00800236        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800236        0x9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.oneshot_layer_data
-                0x0080023f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.last_report.4385
-                0x00800240       0x20 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080023f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_report.4381
-                0x00800260        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800240       0x20 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.last_report.4377
+                0x00800260        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.real_mods
-                0x00800268        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800268        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.oneshot_mods
-                0x00800269        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.last_tick.4446
-                0x0080026a        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800269        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.last_tick.4442
+                0x0080026a        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.debouncing_time
-                0x0080026c        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080026c        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.debouncing
-                0x0080026e        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080026e        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.streak_timer
-                0x0080026f        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080026f        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.in_between
-                0x00800271        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800271        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.hold_timer
-                0x00800272        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800272        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.layer_lock_timer
-                0x00800274        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800274        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.locked_layers
-                0x00800278        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800278        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.raw_matrix
-                0x00800279        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800279        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.default_layer_state
-                0x00800283        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800283        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.layer_state
-                0x00800284        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.matrix    0x00800285        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800284        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.matrix    0x00800285        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.debug_config
-                0x0080028f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.matrix_previous.4453
-                0x00800290        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080028f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.matrix_previous.4449
+                0x00800290        0xa /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.leader_time
-                0x0080029a        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.leading   0x0080029c        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080029a        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.leading   0x0080029c        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.idle_timer
-                0x0080029d        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080029d        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_led_status.3655
-                0x0080029f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080029f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.caps_word_active
-                0x008002a0        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008002a0        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.longest_term
-                0x008002a1        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008002a1        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.weak_mods
-                0x008002a3        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008002a3        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.key_buffer_next.4229
-                0x008002a4        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008002a4        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.key_buffer_size
-                0x008002a5        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008002a5        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.key_buffer
-                0x008002a6       0x68 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x008002a6       0x68 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.combo_buffer
-                0x0080030e        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080030e        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.combo_buffer_read
-                0x00800316        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800316        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.combo_buffer_write
-                0x00800317        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.timer     0x00800318        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800317        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.timer     0x00800318        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.defer_delay
-                0x0080031a        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080031a        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.defer_reference_time
-                0x0080031e        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080031e        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_key_down_time
-                0x00800322        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800322        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.suppressed_mods
-                0x00800326        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800326        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.weak_override_mods
-                0x00800327        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800327        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.active_override_trigger_is_down
-                0x00800328        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800328        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.deferred_register
-                0x00800329        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800329        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.active_override
-                0x0080032b        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080032b        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_repeat_count
-                0x0080032d        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.sc_timer  0x0080032e        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.sc_last   0x00800330        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080032d        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.sc_timer  0x0080032e        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.sc_last   0x00800330        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_system_usage
-                0x00800331        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .bss.driver    0x00800333        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800331        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .bss.driver    0x00800333        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.last_consumer_usage
-                0x00800335        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800335        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.keymap_config
-                0x00800337        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800337        0x2 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.wdt_timeout
-                0x00800339        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800339        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.timer_count
-                0x0080033a        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080033a        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.USB_IsInitialized
-                0x0080033e        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080033e        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.keyboard_idle
-                0x0080033f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080033f        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.keyboard_led_state
-                0x00800340        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800340        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.keyboard_report_sent
-                0x00800341        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800341        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.USB_Device_CurrentlySelfPowered
-                0x00800349        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800349        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.USB_Device_RemoteWakeupEnabled
-                0x0080034a        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080034a        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.USB_DeviceState
-                0x0080034b        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080034b        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.USB_Device_ConfigurationNumber
-                0x0080034c        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080034c        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.USB_ControlRequest
-                0x0080034d        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080034d        0x8 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.waiting_buffer_head
-                0x00800355        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800355        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.waiting_buffer
-                0x00800356       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00800356       0x48 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .bss.waiting_buffer_tail
-                0x0080039e        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x0080039e        0x1 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  *(COMMON)
                 0x0080039f                        PROVIDE (__bss_end = .)
                 0x00005676                        __data_load_start = LOADADDR (.data)
@@ -1034,7 +1034,7 @@ END GROUP
 .noinit         0x0080039f        0x4
                 [!provide]                        PROVIDE (__noinit_start = .)
  *(.noinit .noinit.* .gnu.linkonce.n.*)
- .noinit        0x0080039f        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+ .noinit        0x0080039f        0x4 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                 [!provide]                        PROVIDE (__noinit_end = .)
                 0x008003a3                        _end = .
                 [!provide]                        PROVIDE (__heap_start = .)
@@ -1077,7 +1077,7 @@ END GROUP
 
 .comment        0x00000000       0x26
  *(.comment)
- .comment       0x00000000       0x26 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+ .comment       0x00000000       0x26 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                  0x27 (size before relaxing)
 
 .note.gnu.avr.deviceinfo
@@ -1106,7 +1106,7 @@ END GROUP
 .debug_aranges  0x00000000      0x3d8
  *(.debug_aranges)
  .debug_aranges
-                0x00000000      0x318 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                0x00000000      0x318 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
  .debug_aranges
                 0x00000318       0x20 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
  .debug_aranges
@@ -1123,10 +1123,10 @@ END GROUP
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000    0x4ee6c
+.debug_info     0x00000000    0x4ee33
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x9f4 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_info    0x000009f4    0x44598 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+ .debug_info    0x000009f4    0x4457f /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
                 0x000009f4                achordion.c.6ff585b8
                 0x00003b40                custom_shift_keys.c.c96a5971
                 0x00006a67                layer_lock.c.72380e0d
@@ -1139,113 +1139,113 @@ END GROUP
                 0x000122c4                action_layer.c.6d719004
                 0x00012b2e                action_tapping.c.85251af3
                 0x0001557a                action_util.c.841dea33
-                0x00018203                eeconfig.c.c09e8260
-                0x000184d1                keyboard.c.6260b731
-                0x00018f6d                keymap_common.c.23594d17
-                0x0001bf34                keycode_config.c.a19777ef
-                0x0001e449                sync_timer.c.86e9de10
-                0x0001e4c5                debug.c.7e712866
-                0x0001e6ba                sendchar.c.22de0536
-                0x0001e741                matrix_common.c.5ec206c3
-                0x0001eb7a                matrix.c.d5cf092e
-                0x0001ee60                sym_defer_g.c.909b04da
-                0x0001efe5                main.c.d1461804
-                0x0001f079                printf.c.84f330c1
-                0x0001f140                process_autocorrect.c.f4e4c465
-                0x00021fc1                bootmagic.c.32fa62ed
-                0x0002211a                process_caps_word.c.b1eaf188
-                0x00024b59                caps_word.c.67a46194
-                0x00024d7f                process_combo.c.cc434aa9
-                0x00027c9a                process_grave_esc.c.c4611835
-                0x0002a348                process_key_override.c.dc20982b
-                0x0002d525                process_leader.c.84ede143
-                0x0002fd92                leader.c.faa9be30
-                0x00030042                process_magic.c.ba360943
-                0x000326b2                process_repeat_key.c.9e70075c
-                0x00035095                repeat_key.c.fbf8bb1a
-                0x00037bf7                send_string.c.b08ced54
-                0x0003a65d                process_space_cadet.c.7fce1310
-                0x0003ccd4                host.c.96a19e8c
-                0x0003d599                report.c.462b8175
-                0x0003fe28                usb_device_state.c.565012f9
-                0x0003ffa7                usb_util.c.d4a1193a
-                0x0004002a                suspend.c.3ca773eb
-                0x000400ee                synchronization_util.c.9bf0ce06
-                0x0004010b                timer.c.cf2f31be
-                0x000401c5                hardware_id.c.cac933c0
-                0x000402b3                platform.c.94f77911
-                0x00040328                suspend.c.f4d4ad54
-                0x00040873                timer.c.5b307649
-                0x00040a7c                dfu.c.5c1bef08
-                0x00040ba6                lufa.c.4a2d7ff2
-                0x00041801                usb_descriptor.c.c6a2638f
-                0x0004214b                HIDParser.c.fc773c39
-                0x000427c1                Device_AVR8.c.d147c7df
-                0x00042928                EndpointStream_AVR8.c.a300fd08
-                0x00043442                Endpoint_AVR8.c.41e4a7de
-                0x00043879                Host_AVR8.c.bb56a036
-                0x000438d6                PipeStream_AVR8.c.4a1a2f2a
-                0x00043933                Pipe_AVR8.c.0a0eb68b
-                0x00043990                USBController_AVR8.c.8fa49e1a
-                0x00043cb4                USBInterrupt_AVR8.c.c689b11d
-                0x00044044                ConfigDescriptors.c.069a35a0
-                0x000443a5                DeviceStandardReq.c.3c87576a
-                0x00044948                Events.c.9f2a2605
-                0x000449ff                HostStandardReq.c.0a9dc797
-                0x00044a5c                USBTask.c.7ed24522
-                0x00044c53                usb_util.c.987af069
- .debug_info    0x00044f8c     0x9dfc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .debug_info    0x0004ed88       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
- .debug_info    0x0004edae       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
- .debug_info    0x0004edd4       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
- .debug_info    0x0004edfa       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
- .debug_info    0x0004ee20       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
- .debug_info    0x0004ee46       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
+                0x00018203                eeconfig.c.3f339d00
+                0x000184b8                keyboard.c.6260b731
+                0x00018f54                keymap_common.c.23594d17
+                0x0001bf1b                keycode_config.c.a19777ef
+                0x0001e430                sync_timer.c.86e9de10
+                0x0001e4ac                debug.c.7e712866
+                0x0001e6a1                sendchar.c.22de0536
+                0x0001e728                matrix_common.c.5ec206c3
+                0x0001eb61                matrix.c.d5cf092e
+                0x0001ee47                sym_defer_g.c.909b04da
+                0x0001efcc                main.c.d1461804
+                0x0001f060                printf.c.84f330c1
+                0x0001f127                process_autocorrect.c.f4e4c465
+                0x00021fa8                bootmagic.c.32fa62ed
+                0x00022101                process_caps_word.c.b1eaf188
+                0x00024b40                caps_word.c.67a46194
+                0x00024d66                process_combo.c.cc434aa9
+                0x00027c81                process_grave_esc.c.c4611835
+                0x0002a32f                process_key_override.c.dc20982b
+                0x0002d50c                process_leader.c.84ede143
+                0x0002fd79                leader.c.faa9be30
+                0x00030029                process_magic.c.ba360943
+                0x00032699                process_repeat_key.c.9e70075c
+                0x0003507c                repeat_key.c.fbf8bb1a
+                0x00037bde                send_string.c.b08ced54
+                0x0003a644                process_space_cadet.c.7fce1310
+                0x0003ccbb                host.c.96a19e8c
+                0x0003d580                report.c.462b8175
+                0x0003fe0f                usb_device_state.c.565012f9
+                0x0003ff8e                usb_util.c.d4a1193a
+                0x00040011                suspend.c.3ca773eb
+                0x000400d5                synchronization_util.c.9bf0ce06
+                0x000400f2                timer.c.cf2f31be
+                0x000401ac                hardware_id.c.cac933c0
+                0x0004029a                platform.c.94f77911
+                0x0004030f                suspend.c.f4d4ad54
+                0x0004085a                timer.c.5b307649
+                0x00040a63                dfu.c.5c1bef08
+                0x00040b8d                lufa.c.4a2d7ff2
+                0x000417e8                usb_descriptor.c.c6a2638f
+                0x00042132                HIDParser.c.fc773c39
+                0x000427a8                Device_AVR8.c.d147c7df
+                0x0004290f                EndpointStream_AVR8.c.a300fd08
+                0x00043429                Endpoint_AVR8.c.41e4a7de
+                0x00043860                Host_AVR8.c.bb56a036
+                0x000438bd                PipeStream_AVR8.c.4a1a2f2a
+                0x0004391a                Pipe_AVR8.c.0a0eb68b
+                0x00043977                USBController_AVR8.c.8fa49e1a
+                0x00043c9b                USBInterrupt_AVR8.c.c689b11d
+                0x0004402b                ConfigDescriptors.c.069a35a0
+                0x0004438c                DeviceStandardReq.c.3c87576a
+                0x0004492f                Events.c.9f2a2605
+                0x000449e6                HostStandardReq.c.0a9dc797
+                0x00044a43                USBTask.c.7ed24522
+                0x00044c3a                usb_util.c.987af069
+ .debug_info    0x00044f73     0x9ddc /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .debug_info    0x0004ed4f       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
+ .debug_info    0x0004ed75       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_info    0x0004ed9b       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x0004edc1       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x0004ede7       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
+ .debug_info    0x0004ee0d       0x26 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
 
-.debug_abbrev   0x00000000     0x6523
+.debug_abbrev   0x00000000     0x650e
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x96a /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_abbrev  0x0000096a     0x57ce /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
- .debug_abbrev  0x00006138      0x373 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .debug_abbrev  0x000064ab       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
- .debug_abbrev  0x000064bf       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
- .debug_abbrev  0x000064d3       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
- .debug_abbrev  0x000064e7       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
- .debug_abbrev  0x000064fb       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
- .debug_abbrev  0x0000650f       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
+ .debug_abbrev  0x0000096a     0x57b9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+ .debug_abbrev  0x00006123      0x373 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .debug_abbrev  0x00006496       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x000064aa       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_abbrev  0x000064be       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x000064d2       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x000064e6       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
+ .debug_abbrev  0x000064fa       0x14 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
 
-.debug_line     0x00000000    0x13912
+.debug_line     0x00000000    0x138e8
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000       0x1d /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_line    0x0000001d     0x5234 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
- .debug_line    0x00005251     0xe2e9 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .debug_line    0x0001353a       0x5e /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
- .debug_line    0x00013598       0x76 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
- .debug_line    0x0001360e       0x94 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
- .debug_line    0x000136a2       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
- .debug_line    0x00013724       0xfa /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
- .debug_line    0x0001381e       0xf4 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
+ .debug_line    0x0000001d     0x5228 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+ .debug_line    0x00005245     0xe2cb /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .debug_line    0x00013510       0x5e /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
+ .debug_line    0x0001356e       0x76 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_line    0x000135e4       0x94 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x00013678       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x000136fa       0xfa /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
+ .debug_line    0x000137f4       0xf4 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
 
 .debug_frame    0x00000000      0x914
  *(.debug_frame)
- .debug_frame   0x00000000      0x914 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+ .debug_frame   0x00000000      0x914 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 
-.debug_str      0x00000000     0xaf9f
+.debug_str      0x00000000     0xaf84
  *(.debug_str)
  .debug_str     0x00000000      0x371 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_str     0x00000371    0x6d29f /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
- .debug_str     0x00000371      0x153 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
- .debug_str     0x00000371     0xac2e /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
+ .debug_str     0x00000371    0x6d284 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+ .debug_str     0x00000371      0x153 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+ .debug_str     0x00000371     0xac13 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
                                  0x82 (size before relaxing)
- .debug_str     0x0000af9f       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
- .debug_str     0x0000af9f       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
- .debug_str     0x0000af9f       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
- .debug_str     0x0000af9f       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
- .debug_str     0x0000af9f       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
+ .debug_str     0x0000af84       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
+ .debug_str     0x0000af84       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
+ .debug_str     0x0000af84       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_str     0x0000af84       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
+ .debug_str     0x0000af84       0x82 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
 
-.debug_loc      0x00000000     0x9597
+.debug_loc      0x00000000     0x956c
  *(.debug_loc)
- .debug_loc     0x00000000     0x9597 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+ .debug_loc     0x00000000     0x956c /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1267,7 +1267,7 @@ END GROUP
 
 .debug_ranges   0x00000000     0x2530
  *(.debug_ranges)
- .debug_ranges  0x00000000     0x2530 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+ .debug_ranges  0x00000000     0x2530 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 
 .debug_addr
  *(.debug_addr)
@@ -1302,13 +1302,13 @@ CALLBACK_HIDParser_FilterHIDReportItem            .build/obj_qwertykeys_qk65_hot
 CALLBACK_USB_GetDescriptor                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
 COMDOT_combo                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
-ConfigDescriptors.c.069a35a0                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+ConfigDescriptors.c.069a35a0                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 ConfigurationDescriptor                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/usb_descriptor.o (symbol from plugin)
 DeviceDescriptor                                  .build/obj_qwertykeys_qk65_hotswap_cvan20191/usb_descriptor.o (symbol from plugin)
-DeviceStandardReq.c.3c87576a                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-Device_AVR8.c.d147c7df                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+DeviceStandardReq.c.3c87576a                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+Device_AVR8.c.d147c7df                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 EVENT_USB_Device_ConfigurationChanged             .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
 EVENT_USB_Device_Connect                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
@@ -1325,10 +1325,10 @@ EVENT_USB_Device_Suspend                          .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
 EVENT_USB_Device_WakeUp                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
-EndpointStream_AVR8.c.a300fd08                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-Endpoint_AVR8.c.41e4a7de                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+EndpointStream_AVR8.c.a300fd08                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+Endpoint_AVR8.c.41e4a7de                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 Endpoint_ClearEndpoints                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
 Endpoint_ClearStatusStage                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
@@ -1366,11 +1366,11 @@ Endpoint_Write_PStream_LE                         .build/obj_qwertykeys_qk65_hot
 Endpoint_Write_Stream_BE                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
 Endpoint_Write_Stream_LE                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
-Events.c.9f2a2605                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-HIDParser.c.fc773c39                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-HostStandardReq.c.0a9dc797                        /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-Host_AVR8.c.bb56a036                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+Events.c.9f2a2605                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+HIDParser.c.fc773c39                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+HostStandardReq.c.0a9dc797                        /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+Host_AVR8.c.bb56a036                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 K_combo                                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
 KeyboardReport                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/usb_descriptor.o (symbol from plugin)
 LanguageString                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/usb_descriptor.o (symbol from plugin)
@@ -1378,16 +1378,16 @@ MCOM_combo                                        .build/obj_qwertykeys_qk65_hot
 ManufacturerString                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/usb_descriptor.o (symbol from plugin)
 NUM_CUSTOM_SHIFT_KEYS                             .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/custom_shift_keys.o (symbol from plugin)
-PipeStream_AVR8.c.4a1a2f2a                        /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-Pipe_AVR8.c.0a0eb68b                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+PipeStream_AVR8.c.4a1a2f2a                        /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+Pipe_AVR8.c.0a0eb68b                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 ProductString                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/usb_descriptor.o (symbol from plugin)
 SharedReport                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/usb_descriptor.o (symbol from plugin)
-USBController_AVR8.c.8fa49e1a                     /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-USBInterrupt_AVR8.c.c689b11d                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-USBTask.c.7ed24522                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+USBController_AVR8.c.8fa49e1a                     /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+USBInterrupt_AVR8.c.c689b11d                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+USBTask.c.7ed24522                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 USB_ControlRequest                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/USBTask.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
@@ -1450,26 +1450,26 @@ __data_end                                        /opt/homebrew/Cellar/avr-gcc@8
 __data_load_start                                 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
 __data_start                                      /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
 __do_clear_bss                                    /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_clear_bss.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 __do_copy_data                                    /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_copy_data.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 __epilogue_restores__                             /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_epilogue.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 __heap_end                                        /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __init                                            /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __prologue_saves__                                /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_prologue.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 __stack                                           /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __tablejump2__                                    /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_tablejump2.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 __vector_1                                        /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_10                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+__vector_10                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_11                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+__vector_11                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_12                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+__vector_12                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/suspend.o (symbol from plugin)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_13                                       /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1481,7 +1481,7 @@ __vector_18                                       /opt/homebrew/Cellar/avr-gcc@8
 __vector_19                                       /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_2                                        /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_20                                       /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_21                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+__vector_21                                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/timer.o (symbol from plugin)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_22                                       /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1516,8 +1516,8 @@ __vector_default                                  /opt/homebrew/Cellar/avr-gcc@8
 __vectors                                         /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
 __xprintf                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/xprintf.o
 _exit                                             /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
-achordion.c.6ff585b8                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+achordion.c.6ff585b8                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 achordion_chord                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/achordion.o (symbol from plugin)
 achordion_eager_mod                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
@@ -1531,23 +1531,23 @@ achordion_task                                    .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
 achordion_timeout                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/achordion.o (symbol from plugin)
-action.c.0a6a8650                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+action.c.0a6a8650                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 action_exec                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 action_for_key                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_common.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
 action_for_keycode                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_common.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
-action_layer.c.6d719004                           /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-action_tapping.c.85251af3                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+action_layer.c.6d719004                           /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+action_tapping.c.85251af3                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 action_tapping_process                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_tapping.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_combo.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
-action_util.c.841dea33                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+action_util.c.841dea33                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 add_key                                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_util.o (symbol from plugin)
 add_key_bit                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/report.o (symbol from plugin)
 add_key_byte                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/report.o (symbol from plugin)
@@ -1590,22 +1590,22 @@ bitpop32                                          .build/obj_qwertykeys_qk65_hot
 bitrev                                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bitwise.o (symbol from plugin)
 bitrev16                                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bitwise.o (symbol from plugin)
 bitrev32                                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bitwise.o (symbol from plugin)
-bitwise.c.390f417e                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+bitwise.c.390f417e                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 bootloader_jump                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/bootloaders/dfu.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bootmagic/bootmagic.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-bootloader_jump_after_watchdog_reset              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+bootloader_jump_after_watchdog_reset              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/bootloaders/dfu.o (symbol from plugin)
 bootmagic                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bootmagic/bootmagic.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
-bootmagic.c.32fa62ed                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+bootmagic.c.32fa62ed                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 bootmagic_reset_eeprom                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bootmagic/bootmagic.o (symbol from plugin)
 bootmagic_scan                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bootmagic/bootmagic.o (symbol from plugin)
 bootmagic_should_reset                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bootmagic/bootmagic.o (symbol from plugin)
-caps_word.c.67a46194                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+caps_word.c.67a46194                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 caps_word_off                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/caps_word.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_caps_word.o (symbol from plugin)
 caps_word_on                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/caps_word.o (symbol from plugin)
@@ -1662,8 +1662,8 @@ combo_task                                        .build/obj_qwertykeys_qk65_hot
 combo_toggle                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_combo.o (symbol from plugin)
 custom_shift_keys                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/custom_shift_keys.o (symbol from plugin)
-custom_shift_keys.c.c96a5971                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+custom_shift_keys.c.c96a5971                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 debounce                                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/debounce/sym_defer_g.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix_common.o (symbol from plugin)
@@ -1671,8 +1671,8 @@ debounce_free                                     .build/obj_qwertykeys_qk65_hot
 debounce_init                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/debounce/sym_defer_g.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix_common.o (symbol from plugin)
-debug.c.7e712866                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+debug.c.7e712866                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 debug_action                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
 debug_config                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/logging/debug.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
@@ -1680,7 +1680,7 @@ debug_event                                       .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_tapping.o (symbol from plugin)
 debug_record                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_tapping.o (symbol from plugin)
-default_keyboard.c.9e7c7184                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+default_keyboard.c.9e7c7184                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 default_layer_and                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
 default_layer_debug                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
@@ -1717,15 +1717,15 @@ del_oneshot_mods                                  .build/obj_qwertykeys_qk65_hot
 del_weak_mods                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_util.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/custom_shift_keys.o (symbol from plugin)
-dfu.c.5c1bef08                                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+dfu.c.5c1bef08                                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 disable_action_cache                              .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 do_code16                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 drop_combo_from_buffer                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_combo.o (symbol from plugin)
-eeconfig.c.c09e8260                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+eeconfig.c.3f339d00                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 eeconfig_disable                                  .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bootmagic/bootmagic.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
@@ -1769,26 +1769,26 @@ eeprom_read_blraw                                 /opt/homebrew/Cellar/avr-gcc@8
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_word.o)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
 eeprom_read_byte                                  /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_byte.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
 eeprom_read_dword                                 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
 eeprom_read_float                                 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_dword.o)
 eeprom_read_word                                  /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eerd_word.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_block                               /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_block.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_byte                                /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_byte.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_word.o)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_dword                               /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_float                               /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
 eeprom_update_r18                                 /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_byte.o)
@@ -1796,7 +1796,7 @@ eeprom_update_r18                                 /opt/homebrew/Cellar/avr-gcc@8
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_dword.o)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_block.o)
 eeprom_update_word                                /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libatmega32u4.a(eeupd_word.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/eeconfig.o (symbol from plugin)
 exit                                              /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/avr5/libgcc.a(_exit.o)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1852,14 +1852,14 @@ get_weak_mods                                     .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_repeat_key.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_caps_word.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/custom_shift_keys.o (symbol from plugin)
-gnu_lto_v1                                        /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-hardware_id.c.cac933c0                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+gnu_lto_v1                                        /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+hardware_id.c.cac933c0                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 has_anykey                                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/report.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_util.o (symbol from plugin)
 has_anymod                                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_util.o (symbol from plugin)
 has_oneshot_mods_timed_out                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_util.o (symbol from plugin)
-host.c.96a19e8c                                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+host.c.96a19e8c                                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 host_consumer_send                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/host.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
 host_get_driver                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/host.o (symbol from plugin)
@@ -1904,8 +1904,8 @@ key_override_task                                 .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 key_override_toggle                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_key_override.o (symbol from plugin)
 key_overrides                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
-keyboard.c.6260b731                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+keyboard.c.6260b731                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 keyboard_idle                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
 keyboard_init                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/main.o (symbol from plugin)
@@ -1927,10 +1927,10 @@ keycode_at_keymap_location                        .build/obj_qwertykeys_qk65_hot
 keycode_at_keymap_location_raw                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
 keycode_config                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_common.o (symbol from plugin)
-keycode_config.c.a19777ef                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-keymap_common.c.23594d17                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+keycode_config.c.a19777ef                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+keymap_common.c.23594d17                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 keymap_config                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/report.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_magic.o (symbol from plugin)
@@ -1938,8 +1938,8 @@ keymap_config                                     .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_util.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
-keymap_introspection.c.227c4002                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+keymap_introspection.c.227c4002                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 keymap_key_to_keycode                             .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_common.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_combo.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
@@ -1968,8 +1968,8 @@ layer_debug                                       .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
 layer_invert                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
-layer_lock.c.72380e0d                             /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+layer_lock.c.72380e0d                             /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 layer_lock_all_off                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/layer_lock.o (symbol from plugin)
 layer_lock_invert                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/layer_lock.o (symbol from plugin)
 layer_lock_off                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/layer_lock.o (symbol from plugin)
@@ -2007,8 +2007,8 @@ layer_switch_get_layer                            .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 layer_xor                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
-leader.c.faa9be30                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+leader.c.faa9be30                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 leader_end                                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/leader.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_leader.o (symbol from plugin)
 leader_end_user                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/leader.o (symbol from plugin)
@@ -2034,8 +2034,8 @@ leader_task                                       .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 leader_time                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/leader.o (symbol from plugin)
 leading                                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/leader.o (symbol from plugin)
-led.c.0fc966f1                                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+led.c.0fc966f1                                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 led_init_ports                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/led.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 led_set                                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/led.o (symbol from plugin)
@@ -2050,22 +2050,22 @@ led_update_ports                                  .build/obj_qwertykeys_qk65_hot
 led_update_user                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/led.o (symbol from plugin)
 led_wakeup                                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/led.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-lufa.c.4a2d7ff2                                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+lufa.c.4a2d7ff2                                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 lufa_driver                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
-main                                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+main                                              /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/main.o (symbol from plugin)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/crtatmega32u4.o
-main.c.d1461804                                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+main.c.d1461804                                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 matrix                                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix_common.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix.o (symbol from plugin)
-matrix.c.d5cf092e                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+matrix.c.d5cf092e                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 matrix_can_read                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 matrix_cols                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix_common.o (symbol from plugin)
-matrix_common.c.5ec206c3                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+matrix_common.c.5ec206c3                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 matrix_get_row                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix_common.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/suspend.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/bootmagic/bootmagic.o (symbol from plugin)
@@ -2103,11 +2103,11 @@ matrix_setup                                      .build/obj_qwertykeys_qk65_hot
 mcu_reset                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/bootloaders/dfu.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 memcmp                                            /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memcmp.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 memcpy                                            /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memcpy.o)
                                                   /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memmove.o)
 memmove                                           /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(memmove.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 mod_config                                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_common.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/achordion.o (symbol from plugin)
@@ -2137,8 +2137,8 @@ oneshot_toggle                                    .build/obj_qwertykeys_qk65_hot
 overlaps                                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_combo.o (symbol from plugin)
 peek_matrix                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix_common.o (symbol from plugin)
 perform_space_cadet                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
-platform.c.94f77911                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+platform.c.94f77911                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 platform_setup                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/platform.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/main.o (symbol from plugin)
 post_process_record_kb                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
@@ -2150,49 +2150,49 @@ pre_process_record_quantum                        .build/obj_qwertykeys_qk65_hot
 pre_process_record_user                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 print_set_sendchar                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/printf.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
-printf.c.84f330c1                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+printf.c.84f330c1                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_achordion                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/achordion.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
 process_action                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
 process_action_kb                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 process_autocorrect                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_autocorrect.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_autocorrect.c.f4e4c465                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_autocorrect.c.f4e4c465                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_autocorrect_default_handler               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_autocorrect.o (symbol from plugin)
 process_autocorrect_user                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_autocorrect.o (symbol from plugin)
 process_caps_word                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_caps_word.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_caps_word.c.b1eaf188                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_caps_word.c.b1eaf188                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_combo                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_combo.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_combo.c.cc434aa9                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_combo.c.cc434aa9                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_combo_event                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_combo.o (symbol from plugin)
 process_custom_shift_keys                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/custom_shift_keys.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
 process_grave_esc                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_grave_esc.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_grave_esc.c.c4611835                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_grave_esc.c.c4611835                      /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_key_override                              .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_key_override.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_key_override.c.dc20982b                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_key_override.c.dc20982b                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_last_key                                  .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_repeat_key.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 process_layer_lock                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/features/layer_lock.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
 process_leader                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_leader.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_leader.c.84ede143                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_leader.c.84ede143                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_magic                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_magic.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_magic.c.ba360943                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_magic.c.ba360943                          /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_record                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/repeat_key.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_tapping.o (symbol from plugin)
@@ -2206,12 +2206,12 @@ process_record_tap_hint                           .build/obj_qwertykeys_qk65_hot
 process_record_user                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keymap_introspection.o (symbol from plugin)
 process_repeat_key                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_repeat_key.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_repeat_key.c.9e70075c                     /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_repeat_key.c.9e70075c                     /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 process_space_cadet                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
-process_space_cadet.c.7fce1310                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+process_space_cadet.c.7fce1310                    /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 protocol_keyboard_task                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/main.o (symbol from plugin)
 protocol_post_init                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/main.o (symbol from plugin)
@@ -2223,8 +2223,8 @@ protocol_pre_task                                 .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/main.o (symbol from plugin)
 protocol_setup                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/main.o (symbol from plugin)
-quantum.c.5663aabd                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+quantum.c.5663aabd                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 quantum_init                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 quantum_task                                      .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 raw_matrix                                        .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/matrix_common.o (symbol from plugin)
@@ -2249,12 +2249,12 @@ register_weak_mods                                .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/repeat_key.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 remember_last_key_user                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_repeat_key.o (symbol from plugin)
-repeat_key.c.fbf8bb1a                             /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+repeat_key.c.fbf8bb1a                             /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 repeat_key_invoke                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/repeat_key.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_repeat_key.o (symbol from plugin)
-report.c.462b8175                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+report.c.462b8175                                 /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 reset_key                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/bootloaders/dfu.o (symbol from plugin)
 reset_keyboard                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/quantum.o (symbol from plugin)
 reset_oneshot_layer                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_util.o (symbol from plugin)
@@ -2283,8 +2283,8 @@ send_programmable_button                          .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/host.o (symbol from plugin)
 send_report                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
 send_string                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/send_string/send_string.o (symbol from plugin)
-send_string.c.b08ced54                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+send_string.c.b08ced54                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 send_string_P                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/send_string/send_string.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_autocorrect.o (symbol from plugin)
 send_string_with_delay                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/send_string/send_string.o (symbol from plugin)
@@ -2293,8 +2293,8 @@ send_string_with_delay_P                          .build/obj_qwertykeys_qk65_hot
 send_word                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/send_string/send_string.o (symbol from plugin)
 sendchar                                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/logging/sendchar.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
-sendchar.c.22de0536                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+sendchar.c.22de0536                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 set_activity_timestamps                           .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
 set_last_keycode                                  .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/repeat_key.o (symbol from plugin)
 set_last_mods                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/repeat_key.o (symbol from plugin)
@@ -2323,14 +2323,14 @@ source_layers_cache                               .build/obj_qwertykeys_qk65_hot
 store_or_get_action                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
 strcpy                                            /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(strcpy.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 strcpy_P                                          /opt/homebrew/Cellar/avr-gcc@8/8.5.0_2/lib/avr-gcc/8/gcc/avr/8.5.0/../../../../../../avr/lib/avr5/libc.a(strcpy_P.o)
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_autocorrect.o (symbol from plugin)
-suspend.c.3ca773eb                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-suspend.c.f4d4ad54                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+suspend.c.3ca773eb                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+suspend.c.f4d4ad54                                /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 suspend_power_down                                .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/suspend.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
 suspend_power_down_kb                             .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/suspend.o (symbol from plugin)
@@ -2348,10 +2348,10 @@ suspend_wakeup_init_quantum                       .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/suspend.o (symbol from plugin)
 suspend_wakeup_init_user                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/suspend.o (symbol from plugin)
 switch_events                                     .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/keyboard.o (symbol from plugin)
-sym_defer_g.c.909b04da                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-sync_timer.c.86e9de10                             /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-synchronization_util.c.9bf0ce06                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+sym_defer_g.c.909b04da                            /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+sync_timer.c.86e9de10                             /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+synchronization_util.c.9bf0ce06                   /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 tap_code                                          .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/send_string/send_string.o (symbol from plugin)
@@ -2363,9 +2363,9 @@ tap_code16_delay                                  .build/obj_qwertykeys_qk65_hot
 tap_code_delay                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/send_string/send_string.o (symbol from plugin)
 tap_random_base64                                 .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/send_string/send_string.o (symbol from plugin)
-timer.c.5b307649                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
-timer.c.cf2f31be                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+timer.c.5b307649                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
+timer.c.cf2f31be                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 timer_clear                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/timer.o (symbol from plugin)
 timer_count                                       .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/timer.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/suspend.o (symbol from plugin)
@@ -2421,11 +2421,11 @@ update_tri_layer                                  .build/obj_qwertykeys_qk65_hot
 update_tri_layer_state                            .build/obj_qwertykeys_qk65_hotswap_cvan20191/quantum/action_layer.o (symbol from plugin)
 usb_connected_state                               .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/usb_util.o (symbol from plugin)
-usb_descriptor.c.c6a2638f                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+usb_descriptor.c.c6a2638f                         /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 usb_device_state                                  .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/usb_device_state.o (symbol from plugin)
-usb_device_state.c.565012f9                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+usb_device_state.c.565012f9                       /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
 usb_device_state_init                             .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/usb_device_state.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
 usb_device_state_set_configuration                .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/usb_device_state.o (symbol from plugin)
@@ -2438,12 +2438,12 @@ usb_device_state_set_suspend                      .build/obj_qwertykeys_qk65_hot
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/lufa.o (symbol from plugin)
 usb_disconnect                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/usb_util.o (symbol from plugin)
-usb_util.c.987af069                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
-usb_util.c.d4a1193a                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccD2SPNodebugobj
+usb_util.c.987af069                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
+usb_util.c.d4a1193a                               /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//ccakwFrcdebugobj
 usb_vbus_state                                    .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/protocol/usb_util.o (symbol from plugin)
 xfunc_out                                         .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/xprintf.o
-                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cco2qA8w.ltrans0.ltrans.o
+                                                  /var/folders/kz/1lpp500j75q9n5x081kkyn740000gn/T//cciPZZy2.ltrans0.ltrans.o
                                                   .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/printf.o (symbol from plugin)
 xitoa                                             .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/xprintf.o
 xputc                                             .build/obj_qwertykeys_qk65_hotswap_cvan20191/platforms/avr/xprintf.o
