@@ -1,1 +1,0 @@
--Wl,--gc-sections -Wl,-Map=.build/qwertykeys_qk65_hotswap_cvan20191.map,--cref   -lm 
