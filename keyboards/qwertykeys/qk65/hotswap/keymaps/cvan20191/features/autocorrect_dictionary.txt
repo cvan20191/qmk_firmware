@@ -1,0 +1,4 @@
+:thier     -> their
+:lenght    -> length
+:ture      -> true
+itn       -> int
